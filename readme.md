@@ -2,8 +2,7 @@
 
 This repo contains spec for ton smart contract introspection and reference implementation for JS.
 
-Spec could be found at basic-introspection-spec.md
-
+Spec could be found [here](../blob/master/basic-introspection-spec.md)
 
 ## Install
 
