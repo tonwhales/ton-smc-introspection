@@ -40,10 +40,10 @@ Outputs:
 
 ```
 (int, int, int) supported_interfaces() method_id {
-    ;; 24530: MathFunctionsInterface
-    ;; 9541: ConstantsInterface
-    ;; 26234: BasicIntrospection
-    return (24530, 9541, 26234);
+    ;; 0x5fd2: MathFunctionsInterface
+    ;; 0x2545: ConstantsInterface
+    ;; 0x667a: BasicIntrospection
+    return (0x5fd2, 0x2545, 0x667a);
 }
 ```
 
