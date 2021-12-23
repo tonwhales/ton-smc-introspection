@@ -27,25 +27,25 @@ Basically selectors can be any numbers, but for convenience we propose that
 
 Where ```formal_description``` is some string describing get method / internal message / external message.
 
-#### Formal description for GET methods
+### Formal description for GET methods
 
 ```get-method $definition$```
 
 For example: ```get-method cell get_name()```
 
-#### Formal description for Internal message
+### Formal description for Internal message
 
 ```int-msg $definition$```
 
 For example: ```int-msg: place_bid#5cb63e53 query_id: uint32```
 
-#### Formal description for External message
+### Formal description for External message
 
 ```ext-msg $definition$```
 
 For example: ```ext-msg: place_bid#5cb63e53 query_id: uint32```
 
-#### Formal description for Comment message
+### Formal description for Comment message
 
 ```int-msg-comment $definition$```
 
